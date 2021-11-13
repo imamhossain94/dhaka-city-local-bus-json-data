@@ -2908,7 +2908,7 @@
     {
       "english": "Omama International",
       "bangle": "ওমামা ইন্টারন্যাশনাল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%93%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%BE%20%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%A8%E0%A6%BE%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=506ae654-215f-4cfb-9c10-62e8ab67c7b7",
       "routes": [
         "Motijheel",
         "Dainik Bangla Moor",
@@ -2934,40 +2934,6 @@
         "Airport"
       ],
       "time": "5:30 am – 10:30 pm",
-      "service_type": ""
-    },
-    {
-      "english": "One Transport",
-      "bangle": "ওয়ান ট্রান্সপোর্ট বাস",
-      "image": "",
-      "routes": [
-        "Nandan Park",
-        "Zirani Bazar",
-        "Baipayl",
-        "Nobinagar",
-        "Savar",
-        "Hemayetpur",
-        "Amin Bazar",
-        "Gabtoli",
-        "Technical",
-        "Kallyanpur",
-        "Shyamoli",
-        "Shishu Mela",
-        "College Gate",
-        "Asad Gate",
-        "Khamar Bari",
-        "Farmgate",
-        "Kawran Bazar",
-        "Bangla Motor",
-        "Shahbag",
-        "High Court",
-        "Press Club",
-        "Paltan",
-        "GPO",
-        "Gulistan",
-        "Motijheel"
-      ],
-      "time": "",
       "service_type": ""
     },
     {
