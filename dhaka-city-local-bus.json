@@ -2806,7 +2806,7 @@
     {
       "english": "Nur E Makka",
       "bangle": "নূর এ মক্কা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A8%E0%A7%82%E0%A6%B0%20%E0%A6%8F%20%E0%A6%AE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=7b9a8ca4-0dfe-49b4-807c-977bce40f3c4",
       "routes": [
         "Chiriyakhana",
         "Sony Cinema Hall",
@@ -2838,39 +2838,9 @@
       "service_type": "Sitting Service(Check System)"
     },
     {
-      "english": "Nabakali Dhaka",
-      "bangle": "নবকালি বাস",
-      "image": "",
-      "routes": [
-        "Chiriyakhana",
-        "Mirpur 1",
-        "Ansar Camp",
-        "Technical",
-        "Kallyanpur",
-        "Shyamoli",
-        "Shishu Mela",
-        "College Gate",
-        "Asad Gate",
-        "Dhanmondi 27",
-        "Shukrabad",
-        "Dhanmondi 32",
-        "Kalabagan",
-        "Science Lab",
-        "Katabon",
-        "Shahbag",
-        "High Court",
-        "Fulbaria",
-        "Naya Bazar",
-        "Babubazar",
-        "Keraniganj"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "New Vision Dhaka",
       "bangle": "নিউ ভিশন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A8%E0%A6%BF%E0%A6%89%20%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=23ea6a73-055d-47bd-8677-8f54fd61cdcd",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -2898,7 +2868,7 @@
     {
       "english": "Nilachol Dhaka",
       "bangle": "নিলাচল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A8%E0%A6%BF%E0%A6%B2%E0%A6%BE%E0%A6%9A%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=45b24085-40f7-4aa5-8bd7-bf8633f267ed",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -2931,33 +2901,6 @@
         "Nobinagar",
         "Manikganj",
         "Paturia"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "Nishorgo Dhaka",
-      "bangle": "নিসর্গ বাস",
-      "image": "",
-      "routes": [
-        "Mirpur 14 Bus Stand",
-        "Mirpur 10",
-        "Kazipara",
-        "Shewrapara",
-        "Taltola",
-        "Agargaon",
-        "Asad Gate",
-        "Shyamoli",
-        "Mohammadpur",
-        "Shankar",
-        "Dhanmondi 15",
-        "Jigatola",
-        "Science Lab",
-        "Dhaka College",
-        "New Market",
-        "Nilkhet",
-        "Eden College",
-        "Azimpur"
       ],
       "time": "",
       "service_type": ""
