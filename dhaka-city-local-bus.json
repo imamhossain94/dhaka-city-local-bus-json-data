@@ -2937,31 +2937,9 @@
       "service_type": ""
     },
     {
-      "english": "Pallabi Local Service",
-      "bangle": "পল্লবী লোকাল সার্ভিস বাস",
-      "image": "",
-      "routes": [
-        "Asad Gate",
-        "College Gate",
-        "Shishu Mela",
-        "Shyamoli",
-        "Kallyanpur",
-        "Technical",
-        "Mirpur 1",
-        "Sony Cinema Hall",
-        "Mirpur 2",
-        "Chalantika Moor",
-        "Mirpur 6",
-        "Mirpur 11",
-        "Mirpur 12"
-      ],
-      "time": "5:30 am – 10:30 pm",
-      "service_type": ""
-    },
-    {
       "english": "Pallabi Super",
       "bangle": "পল্লবী সুপার বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%AC%E0%A7%80%20%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0.png?alt=media&token=d8b37812-cd9a-4ac2-881b-330b52708faa",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -2992,7 +2970,7 @@
     {
       "english": "Paristhan",
       "bangle": "পরিস্থান বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=feab0bbc-d3e2-4919-8f3c-a8d24e8a9991",
       "routes": [
         "Bosila",
         "Mohammadpur",
@@ -3026,35 +3004,9 @@
       "service_type": ""
     },
     {
-      "english": "Power Paribahan",
-      "bangle": "পাওয়ার পরিবহন বাস",
-      "image": "",
-      "routes": [
-        "Mirpur 14",
-        "Mirpur 10",
-        "Mirpur 2",
-        "Sony Cinema Hall",
-        "Mirpur 1",
-        "Mazar Road",
-        "Konabari",
-        "Rupnagar",
-        "Beribadh",
-        "Birulia",
-        "Ashulia",
-        "Zirabo",
-        "Narshinghapur",
-        "Sura Bari",
-        "Kashimpur",
-        "Jarun",
-        "Konabari"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "Prattay",
       "bangle": "প্রত্যয় বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%9F%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=76cacc88-a0bc-445a-b503-f719b769cdb1",
       "routes": [
         "Gabtoli",
         "Beribadh Tin Rastar Moor",
@@ -3073,7 +3025,7 @@
     {
       "english": "Prochesta",
       "bangle": "প্রচেষ্টা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9A%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=01f15ab8-c7a7-4b93-b2c2-a2c4a8a81515",
       "routes": [
         "Maowa",
         "Keraniganj",
@@ -3114,7 +3066,7 @@
     {
       "english": "Projapati",
       "bangle": "প্রজাপতি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=09493a65-2d48-43a2-817d-efe371346bbf",
       "routes": [
         "Bosila",
         "Mohammadpur",
@@ -3149,7 +3101,7 @@
     {
       "english": "Provati Banasree",
       "bangle": "প্রভাতী বনশ্রী বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A7%80%20%E0%A6%AC%E0%A6%A8%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80.jpg?alt=media&token=288167cd-0862-4105-b8ce-af600553a3f8",
       "routes": [
         "Fulbaria",
         "Golap Shah Mazar",
@@ -3191,7 +3143,7 @@
     {
       "english": "Purbachol Logistics and Transport",
       "bangle": "পূর্বাচল লজিস্টিকস বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%9A%E0%A6%B2%20%E0%A6%B2%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%B8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=1919fc75-9c3b-487d-8768-5e1a703b9fa0",
       "routes": [
         "Vashantek",
         "Mirpur 14",
