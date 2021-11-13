@@ -106,3 +106,5 @@ data class Data (
 	@SerializedName("service_type") val service_type : String
 )
 ```
+
+Message: It took a lot of time to gather all this information together. Please star this repo if you get helped by this repo. Thank you!
