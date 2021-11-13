@@ -4448,28 +4448,9 @@
       "service_type": ""
     },
     {
-      "english": "13 No. Dhaka",
-      "bangle": "১৩নং বাস",
-      "image": "",
-      "routes": [
-        "Mohammadpur",
-        "Shankar",
-        "Star Kabab",
-        "Dhanmondi 15",
-        "Jigatola",
-        "City College",
-        "Science Lab",
-        "New Market",
-        "Nilkhet",
-        "Azimpur"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "4 No. Alike Dhaka",
       "bangle": "৪নং বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A7%AA%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=b765a3e2-b7c8-4c2f-89e6-620c33b35d61",
       "routes": [
         "Balughat",
         "Signal",
@@ -4492,7 +4473,7 @@
     {
       "english": "6 No. Dhaka",
       "bangle": "৬নং বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A7%AC%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=681e7262-27c3-4948-bcd3-535163f1a0be",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -4519,7 +4500,7 @@
     {
       "english": "6 No. Motijheel Banani Transport Dhaka",
       "bangle": "৬নং মতিঝিল বনানী ট্রান্সপোর্ট বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A7%AC%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=681e7262-27c3-4948-bcd3-535163f1a0be",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -4546,7 +4527,7 @@
     {
       "english": "7 No. Dhaka",
       "bangle": "৭নং বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A7%AD%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=2eab6b2e-cc64-4fad-870c-d4e8c3af9ff1",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -4577,7 +4558,7 @@
     {
       "english": "8 No. Dhaka",
       "bangle": "৮নং বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A7%AE%E0%A6%A8%E0%A6%82%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=ad9da4c7-88e3-481f-b83c-0d53d0e221d3",
       "routes": [
         "Jatrabari",
         "Janapath Moor",
@@ -4600,30 +4581,6 @@
         "Kallyanpur",
         "Technical",
         "Gabtoli"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "9 No. Dhaka",
-      "bangle": "৯নং বাস",
-      "image": "",
-      "routes": [
-        "College Gate",
-        "Shishu Mela",
-        "Shyamoli",
-        "Kallyanpur",
-        "Darussalam",
-        "Technical",
-        "Bangla College",
-        "Tolarbag",
-        "Ansar Camp",
-        "Mirpur 1",
-        "Sony Cinema Hall",
-        "Mirpur 2",
-        "Proshika Moor",
-        "Pallabi",
-        "Mirpur 12"
       ],
       "time": "",
       "service_type": ""
