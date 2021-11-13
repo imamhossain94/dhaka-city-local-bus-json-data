@@ -607,7 +607,7 @@
     {
       "english": "Bahon",
       "bangle": "বাহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BE%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=6ac383c0-c4c7-4d5f-ab99-7d68d6c40653",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -642,7 +642,7 @@
     {
       "english": "Baishakhi",
       "bangle": "বৈশাখী বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=3b0dfb5f-3099-4cd6-a49f-dac11e5d93a9",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -668,7 +668,7 @@
     {
       "english": "Balaka",
       "bangle": "বলাকা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=82e6516f-8986-40ba-ada2-7bd4d18c569b",
       "routes": [
         "Sayedabad",
         "Manik Nagar",
@@ -707,7 +707,7 @@
     {
       "english": "Basumati",
       "bangle": "বাসুমতি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=399b9d16-34cf-46f8-828d-936e7addaf6c",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -738,7 +738,7 @@
     {
       "english": "Basumati Transport",
       "bangle": "বাসুমতি ট্রান্সপোর্ট",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=399b9d16-34cf-46f8-828d-936e7addaf6c",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -771,7 +771,7 @@
     {
       "english": "Best Satabdi AC",
       "bangle": "বেষ্ট শতাব্দী এসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%20%E0%A6%B6%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%A6%E0%A7%80%20%E0%A6%8F%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e3c8ef9a-4c8e-478f-8bcd-f400c9b80015",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -806,7 +806,7 @@
     {
       "english": "Best Transport",
       "bangle": "বেষ্ট ট্রান্সপোর্ট বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A7%87%E0%A6%B7%E0%A7%8D%E0%A6%9F%20%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F.jpg?alt=media&token=ca348447-6b65-4948-b576-4585a211db50",
       "routes": [
         "Mirpur 10",
         "Kazipara",
@@ -835,7 +835,7 @@
     {
       "english": "Bhuiyan Paribahan",
       "bangle": "ভূঁইয়া পরিবহন",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AD%E0%A7%82%E0%A6%81%E0%A6%87%E0%A7%9F%E0%A6%BE%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8.jpg?alt=media&token=d8c1f0c8-a009-409c-89ec-901a131f6c58",
       "routes": [
         "Japan Garden City",
         "Ring Road",
@@ -870,7 +870,7 @@
     {
       "english": "Bihanga",
       "bangle": "বিহাঙ্গা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=3b3094f6-3d93-4ce2-82eb-73a6224f363d",
       "routes": [
         "Mirpur 12",
         "Mirpur 11",
@@ -893,7 +893,7 @@
     {
       "english": "Bikalpa Bus Auto Service",
       "bangle": "বিকল্প বাস অটো সার্ভিস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%20%E0%A6%AC%E0%A6%BE%E0%A6%B8%20%E0%A6%85%E0%A6%9F%E0%A7%8B%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%B8.jpg?alt=media&token=ef24a3d2-36e3-4832-9f22-495c527e2322",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -923,7 +923,7 @@
     {
       "english": "Bikalpa Bus City Super Service",
       "bangle": "বিকল্প বাস সিটি সুপার সার্ভিস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%B2%E0%A7%8D%E0%A6%AA%20%E0%A6%AC%E0%A6%BE%E0%A6%B8%20%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF%20%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%B8.jpeg?alt=media&token=b15cc796-17f8-4991-bc82-593595122bdc",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -953,7 +953,7 @@
     {
       "english": "Bikash",
       "bangle": "বিকাশ বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B6%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=1aed3d9c-965d-408e-a18a-ed84cfdf5dd0",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -981,7 +981,7 @@
     {
       "english": "Bikash Paribahan",
       "bangle": "বিকাশ পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B6%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=1aed3d9c-965d-408e-a18a-ed84cfdf5dd0",
       "routes": [
         "Sign Board",
         "Matuail",
@@ -1027,7 +1027,7 @@
     {
       "english": "Bondhu Paribahan",
       "bangle": "বন্ধু পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=182a0564-6524-4cb3-8e65-bc57549726b4",
       "routes": [
         "Gulistan",
         "GPO",
@@ -1052,7 +1052,7 @@
     {
       "english": "Borak",
       "bangle": "বোরাক বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A7%8B%E0%A6%B0%E0%A6%BE%E0%A6%95%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=deea3106-00e2-4a51-8f1a-212945fb2150",
       "routes": [
         "Palashi",
         "Meghna Ghat"
@@ -1063,7 +1063,7 @@
     {
       "english": "Bashumoti",
       "bangle": "বসুমতি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=399b9d16-34cf-46f8-828d-936e7addaf6c",
       "routes": [
         "Gazipur Chourasta",
         "Tongi",
@@ -1079,24 +1079,9 @@
       "service_type": ""
     },
     {
-      "english": "Brihottor Mirpur",
-      "bangle": "বৃহত্তর মিরপুর বাস",
-      "image": "",
-      "routes": [
-        "Chiriyakhana",
-        "Mirpur 1",
-        "Gabtoli",
-        "Amin Bazar",
-        "Savar",
-        "Nobinagar Chandra"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Madanpur",
         "Kanchpur",
@@ -1135,7 +1120,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1172,7 +1157,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1205,7 +1190,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
@@ -1231,7 +1216,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -1265,7 +1250,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Vulta",
         "Kanchan Bridge",
@@ -1280,7 +1265,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1317,7 +1302,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -1342,7 +1327,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d6a87691-8c23-44de-8696-e5a9f533af34",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -1375,7 +1360,7 @@
     {
       "english": "BRTC Articulated",
       "bangle": "বি আর টিসি আরটিকুলেটেড বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AC%E0%A6%BF%20%E0%A6%86%E0%A6%B0%20%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%86%E0%A6%B0%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%81%E0%A6%B2%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%A1%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=bad8a45f-fc75-492d-82a1-402a566567f2",
       "routes": [
         "Balughat",
         "Cantonment",
