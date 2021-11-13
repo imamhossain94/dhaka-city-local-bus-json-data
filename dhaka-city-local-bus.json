@@ -2007,7 +2007,7 @@
     {
       "english": "Hazi Transport",
       "bangle": "হাজি ট্রান্সপোর্ট বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BF%20%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F.jpg?alt=media&token=59a868c3-d2e5-4ca5-8fb0-e75a5d1ee436",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -2035,7 +2035,7 @@
     {
       "english": "Himachal",
       "bangle": "হিমাচল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=4c0bd6ac-9a62-4089-9e81-630b2e15d926",
       "routes": [
         "Mirpur Sony Cinema Hall",
         "Mirpur 10",
@@ -2054,7 +2054,7 @@
     {
       "english": "Himachal Suveccha",
       "bangle": "হিমাচল শুভেচ্ছা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%9A%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=4c0bd6ac-9a62-4089-9e81-630b2e15d926",
       "routes": [
         "Metro Hall",
         "Chashara",
@@ -2091,7 +2091,7 @@
     {
       "english": "Himalay",
       "bangle": "হিমালয় বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B9%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=68021682-9d95-451c-a822-6359ecfc3c01",
       "routes": [
         "Madanpur",
         "Jatrabari",
