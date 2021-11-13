@@ -1781,46 +1781,9 @@
       "service_type": ""
     },
     {
-      "english": "Falgun Art Transport Private Limited",
-      "bangle": "ফাল্গুন আর্ট ট্রান্সপোর্ট প্রাইভেট লিমিটেড বাস",
-      "image": "",
-      "routes": [
-        "Azimpur",
-        "Nilkhet",
-        "New Market",
-        "Science Lab",
-        "Bata Signal",
-        "Katabon",
-        "Shahbag",
-        "Motso Vobon",
-        "Kakrail",
-        "Shantinagar",
-        "Malibagg Mor",
-        "Mouchak",
-        "Malibagh Rail Gate",
-        "Rampura Bazar",
-        "Rampura Bridge",
-        "Merul",
-        "Madhya Badda",
-        "Badda",
-        "Shahjadpur",
-        "Natun Bazar",
-        "Nadda",
-        "Bashundhara",
-        "Jamuna Future Park",
-        "Kuril Bissho Road",
-        "Khilkhet",
-        "Airport",
-        "Rajlakshmi",
-        "Uttara House Building"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "First Ten",
       "bangle": "ফার্স্ট টেন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F%20%E0%A6%9F%E0%A7%87%E0%A6%A8.jpg?alt=media&token=fb5856d7-17b9-43e2-bc65-8ad3a9be1bf1",
       "routes": [
         "Vashantek",
         "Mirpur 14",
@@ -1838,7 +1801,7 @@
     {
       "english": "FTCL",
       "bangle": "এফটিসিএল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%8F%E0%A6%AB%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=95c2d4d6-98d9-4cc1-9cb4-14499c28dc07",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -1869,7 +1832,7 @@
     {
       "english": "FTCL",
       "bangle": "এফটিসিএল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%8F%E0%A6%AB%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=95c2d4d6-98d9-4cc1-9cb4-14499c28dc07",
       "routes": [
         "Mohammadpur",
         "Shankar",
