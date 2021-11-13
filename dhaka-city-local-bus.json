@@ -4281,7 +4281,7 @@
     {
       "english": "Victor Classic",
       "bangle": "ভিক্টর ক্লাসিক বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AD%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%20%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%95%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=7144d52a-d6b7-4bca-bc28-2d314d2f6d6b",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -4320,7 +4320,7 @@
     {
       "english": "Victor Paribahan",
       "bangle": "ভিক্টর পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AD%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=9431d61e-a6db-4865-84c5-50b4e16e6ddb",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -4352,7 +4352,7 @@
     {
       "english": "VIP 27",
       "bangle": "ভিআইপি ২৭ বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AD%E0%A6%BF%E0%A6%86%E0%A6%87%E0%A6%AA%E0%A6%BF%20%E0%A7%A8%E0%A7%AD%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=6fe13164-f00b-4375-8a51-24450cb0081b",
       "routes": [
         "Azimpur",
         "Nilkhet",
