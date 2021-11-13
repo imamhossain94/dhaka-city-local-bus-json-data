@@ -1718,32 +1718,9 @@
       "service_type": ""
     },
     {
-      "english": "Elite",
-      "bangle": "এলিট বাস",
-      "image": "",
-      "routes": [
-        "Agargaon",
-        "Taltola",
-        "Shewrapara",
-        "Kazipara",
-        "Mirpur 10",
-        "Mirpur 11",
-        "Purobi",
-        "Pallabi",
-        "Kalshi",
-        "Kuril Bishwa Road",
-        "Airport",
-        "Jashimuddin (Uttara)",
-        "Rajlakshmi House Building",
-        "Abdullahpur"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "ETC",
       "bangle": "ইটিসি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=b5cda6c6-f9b9-488b-a8f2-ee50ccf6af6d",
       "routes": [
         "Golap Shah Mazar",
         "Shahbag",
@@ -1762,7 +1739,7 @@
     {
       "english": "ETC Transport",
       "bangle": "ইটিসি ট্রান্সপোর্ট বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%87%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=b5cda6c6-f9b9-488b-a8f2-ee50ccf6af6d",
       "routes": [
         "Golap Shah Mazar",
         "GPO",
@@ -1791,7 +1768,7 @@
     {
       "english": "Everest Paribahan",
       "bangle": "এভারেস্ট পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%8F%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=30db6449-50a9-4f8b-a515-ecdcc5ea333d",
       "routes": [
         "Rupnagar Abashik",
         "Mirpur 2",
