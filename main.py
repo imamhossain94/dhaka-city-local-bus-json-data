@@ -27,6 +27,7 @@ def get_bus_data(url):
                     local_data = {
                         "english": bus_name_english,
                         "bangle": bus_name_bangle,
+                        "image": "",
                         "routes": final_routes,
                         "time": time,
                         "service_type": service_type

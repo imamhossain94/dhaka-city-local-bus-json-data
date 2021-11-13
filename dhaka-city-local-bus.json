@@ -3,6 +3,7 @@
     {
       "english": "Achim Paribahan",
       "bangle": "আছিম পরিবহন",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -38,6 +39,7 @@
     {
       "english": "Active Paribahan",
       "bangle": "এক্টিভ পরিবহন",
+      "image": "",
       "routes": [
         "Shia Masjid",
         "Adabor",
@@ -69,6 +71,7 @@
     {
       "english": "Agradut",
       "bangle": "অগ্রদূত",
+      "image": "",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -97,6 +100,7 @@
     {
       "english": "Airport Bangabandhu Avenue",
       "bangle": "এয়ারপোর্ট বঙ্গবন্ধু এভিনিউ ট্রান্সপোর্ট",
+      "image": "",
       "routes": [
         "Fulbaria",
         "Golap Shah Mazar",
@@ -134,6 +138,7 @@
     {
       "english": "Azmeri Glory",
       "bangle": "আজমেরী গ্লোরী",
+      "image": "",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -175,6 +180,7 @@
     {
       "english": "Ajmi",
       "bangle": "আজমী বাস",
+      "image": "",
       "routes": [
         "Dhamrai",
         "Savar",
@@ -204,6 +210,7 @@
     {
       "english": "Akash",
       "bangle": "আকাশ বাস",
+      "image": "",
       "routes": [
         "Kadamtali",
         "Keraniganj",
@@ -244,6 +251,7 @@
     {
       "english": "Akik",
       "bangle": "আকিক বাস",
+      "image": "",
       "routes": [
         "Ansar Camp",
         "Mirpur 1",
@@ -271,6 +279,7 @@
     {
       "english": "Al Makka",
       "bangle": "আল মক্কা বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -299,6 +308,7 @@
     {
       "english": "Al Madina Plus One",
       "bangle": "আল মনিদা প্লাস ওয়ান",
+      "image": "",
       "routes": [
         "Nandan Park",
         "Zirani Bazar",
@@ -333,6 +343,7 @@
     {
       "english": "Alif",
       "bangle": "আলিফ বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -355,6 +366,7 @@
     {
       "english": "Alif",
       "bangle": "আলিফ বাস",
+      "image": "",
       "routes": [
         "Shia Mosque",
         "Japan Garden City",
@@ -380,6 +392,7 @@
     {
       "english": "Alif",
       "bangle": "আলিফ বাস",
+      "image": "",
       "routes": [
         "Mirpur 1",
         "Mirpur 2",
@@ -404,6 +417,7 @@
     {
       "english": "Alif",
       "bangle": "আলিফ বাস",
+      "image": "",
       "routes": [
         "Japan Garden City",
         "Ring Road",
@@ -438,6 +452,7 @@
     {
       "english": "Anabil Super",
       "bangle": "অনাবিল সুপার",
+      "image": "",
       "routes": [
         "Sign Board",
         "Shonir Akhra",
@@ -480,6 +495,7 @@
     {
       "english": "Arnob",
       "bangle": "অরনব বাস",
+      "image": "",
       "routes": [
         "Hemayetpur",
         "Amin Bazar",
@@ -508,6 +524,7 @@
     {
       "english": "Ashirbad Pahibahan",
       "bangle": "আশীর্বাদ পরিবহন",
+      "image": "",
       "routes": [
         "Duaripara",
         "Rupnagar Abashik",
@@ -537,6 +554,7 @@
     {
       "english": "Ashulia Classic",
       "bangle": "আশুলিয়া ক্লাসিক বাস",
+      "image": "",
       "routes": [
         "Nobinagar",
         "Baipayl",
@@ -568,6 +586,7 @@
     {
       "english": "Asmani",
       "bangle": "আসমানী বাস",
+      "image": "",
       "routes": [
         "Dhour",
         "Abdullahpur",
@@ -600,6 +619,7 @@
     {
       "english": "ATCL",
       "bangle": "এটিসিএল বাস",
+      "image": "",
       "routes": [
         "Mohammadpur Bus Stand",
         "Asad Gate",
@@ -623,6 +643,7 @@
     {
       "english": "Ayat",
       "bangle": "আয়াত বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Sony Cinema Hall",
@@ -648,6 +669,7 @@
     {
       "english": "Bahon",
       "bangle": "বাহন বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -682,6 +704,7 @@
     {
       "english": "Baishakhi",
       "bangle": "বৈশাখী বাস",
+      "image": "",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -707,6 +730,7 @@
     {
       "english": "Balaka",
       "bangle": "বলাকা বাস",
+      "image": "",
       "routes": [
         "Sayedabad",
         "Manik Nagar",
@@ -745,6 +769,7 @@
     {
       "english": "Basumati",
       "bangle": "বাসুমতি বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -775,6 +800,7 @@
     {
       "english": "Basumati Transport",
       "bangle": "বাসুমতি ট্রান্সপোর্ট",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -807,6 +833,7 @@
     {
       "english": "Best Satabdi AC",
       "bangle": "বেষ্ট শতাব্দী এসি বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -841,6 +868,7 @@
     {
       "english": "Best Transport",
       "bangle": "বেষ্ট ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Mirpur 10",
         "Kazipara",
@@ -869,6 +897,7 @@
     {
       "english": "Bhuiyan Paribahan",
       "bangle": "ভূঁইয়া পরিবহন",
+      "image": "",
       "routes": [
         "Japan Garden City",
         "Ring Road",
@@ -903,6 +932,7 @@
     {
       "english": "Bihanga",
       "bangle": "বিহাঙ্গা বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Mirpur 11",
@@ -925,6 +955,7 @@
     {
       "english": "Bikalpa Bus Auto Service",
       "bangle": "বিকল্প বাস অটো সার্ভিস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -954,6 +985,7 @@
     {
       "english": "Bikalpa Bus City Super Service",
       "bangle": "বিকল্প বাস সিটি সুপার সার্ভিস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -983,6 +1015,7 @@
     {
       "english": "Bikash",
       "bangle": "বিকাশ বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -1010,6 +1043,7 @@
     {
       "english": "Bikash Paribahan",
       "bangle": "বিকাশ পরিবহন বাস",
+      "image": "",
       "routes": [
         "Sign Board",
         "Matuail",
@@ -1055,6 +1089,7 @@
     {
       "english": "Bondhu Paribahan",
       "bangle": "বন্ধু পরিবহন বাস",
+      "image": "",
       "routes": [
         "Gulistan",
         "GPO",
@@ -1079,6 +1114,7 @@
     {
       "english": "Borak",
       "bangle": "বোরাক বাস",
+      "image": "",
       "routes": [
         "Palashi",
         "Meghna Ghat"
@@ -1089,6 +1125,7 @@
     {
       "english": "Bashumoti",
       "bangle": "বসুমতি বাস",
+      "image": "",
       "routes": [
         "Gazipur Chourasta",
         "Tongi",
@@ -1106,6 +1143,7 @@
     {
       "english": "Brihottor Mirpur",
       "bangle": "বৃহত্তর মিরপুর বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -1120,6 +1158,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Madanpur",
         "Kanchpur",
@@ -1158,6 +1197,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1194,6 +1234,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1226,6 +1267,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
@@ -1251,6 +1293,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -1284,6 +1327,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Vulta",
         "Kanchan Bridge",
@@ -1298,6 +1342,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -1334,6 +1379,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -1358,6 +1404,7 @@
     {
       "english": "BRTC",
       "bangle": "বি আর টিসি বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -1390,6 +1437,7 @@
     {
       "english": "BRTC Articulated",
       "bangle": "বি আর টিসি আরটিকুলেটেড বাস",
+      "image": "",
       "routes": [
         "Balughat",
         "Cantonment",
@@ -1407,6 +1455,7 @@
     {
       "english": "Cantonment",
       "bangle": "ক্যান্টনমেন্ট বাস সার্ভিস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -1426,6 +1475,7 @@
     {
       "english": "Cantonment Mini Service",
       "bangle": "ক্যান্টনমেন্ট  মিনি বাস সার্ভিস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Kachukhet",
@@ -1440,6 +1490,7 @@
     {
       "english": "Champion",
       "bangle": "চ্যাম্পিয়ন বাস",
+      "image": "",
       "routes": [
         "Vashantek",
         "Mirpur 14",
@@ -1457,6 +1508,7 @@
     {
       "english": "City Link",
       "bangle": "সিটি লিংক বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -1489,6 +1541,7 @@
     {
       "english": "D Link",
       "bangle": "ডি লিংক বাস",
+      "image": "",
       "routes": [
         "Fulbaria",
         "Chankhar Pul",
@@ -1519,6 +1572,7 @@
     {
       "english": "D One Transport",
       "bangle": "ডি ওয়ান বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Dainik Bangla Moor",
@@ -1548,6 +1602,7 @@
     {
       "english": "Deepan",
       "bangle": "দিপান বাস",
+      "image": "",
       "routes": [
         "Tajmahal Road",
         "Shankar",
@@ -1568,6 +1623,7 @@
     {
       "english": "Desh Bangla",
       "bangle": "দেশ বাংলা বাস",
+      "image": "",
       "routes": [
         "Postagola",
         "Dholairpar",
@@ -1604,6 +1660,7 @@
     {
       "english": "Dewan",
       "bangle": "দেওয়ান বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Eden College",
@@ -1638,6 +1695,7 @@
     {
       "english": "Dhakar Chaka",
       "bangle": "ঢাকার চাকা বাস",
+      "image": "",
       "routes": [
         "Police Plaza",
         "Gulshan 1",
@@ -1649,6 +1707,7 @@
     {
       "english": "Dhakar Chaka",
       "bangle": "ঢাকার চাকা বাস",
+      "image": "",
       "routes": [
         "Banani",
         "Gulshan 2",
@@ -1660,6 +1719,7 @@
     {
       "english": "Dhaka Metro Service",
       "bangle": "ঢাকার মেট্রো সার্ভিস বাস",
+      "image": "",
       "routes": [
         "Mirpur 1",
         "Kallyanpur",
@@ -1677,6 +1737,7 @@
     {
       "english": "Dhaka Paribahan",
       "bangle": "ঢাকা পরিবহন বাস",
+      "image": "",
       "routes": [
         "Gulistan",
         "Shahbag",
@@ -1692,6 +1753,7 @@
     {
       "english": "Dipon",
       "bangle": "দিপোন বাস",
+      "image": "",
       "routes": [
         "Tajmahal Road",
         "Salimullah Road",
@@ -1719,6 +1781,7 @@
     {
       "english": "Dip Paribahan",
       "bangle": "দ্বীপ পরিবহন বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "City College",
@@ -1736,6 +1799,7 @@
     {
       "english": "Dishari",
       "bangle": "দিসারি বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -1767,6 +1831,7 @@
     {
       "english": "Elite",
       "bangle": "এলিট বাস",
+      "image": "",
       "routes": [
         "Agargaon",
         "Taltola",
@@ -1789,6 +1854,7 @@
     {
       "english": "ETC",
       "bangle": "ইটিসি বাস",
+      "image": "",
       "routes": [
         "Golap Shah Mazar",
         "Shahbag",
@@ -1807,6 +1873,7 @@
     {
       "english": "ETC Transport",
       "bangle": "ইটিসি ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Golap Shah Mazar",
         "GPO",
@@ -1835,6 +1902,7 @@
     {
       "english": "Everest Paribahan",
       "bangle": "এভারেস্ট পরিবহন বাস",
+      "image": "",
       "routes": [
         "Rupnagar Abashik",
         "Mirpur 2",
@@ -1849,6 +1917,7 @@
     {
       "english": "Falgun Art Transport Private Limited",
       "bangle": "ফাল্গুন আর্ট ট্রান্সপোর্ট প্রাইভেট লিমিটেড বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -1885,6 +1954,7 @@
     {
       "english": "First Ten",
       "bangle": "ফার্স্ট টেন বাস",
+      "image": "",
       "routes": [
         "Vashantek",
         "Mirpur 14",
@@ -1902,6 +1972,7 @@
     {
       "english": "FTCL",
       "bangle": "এফটিসিএল বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -1932,6 +2003,7 @@
     {
       "english": "FTCL",
       "bangle": "এফটিসিএল বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -1952,6 +2024,7 @@
     {
       "english": "Gazipur Paribahan",
       "bangle": "গাজীপুর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Paltan",
@@ -1990,6 +2063,7 @@
     {
       "english": "Grameen",
       "bangle": "গ্রামীণ বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -2006,6 +2080,7 @@
     {
       "english": "Grameen Suveccha",
       "bangle": "গ্রামীণ শুভেচ্ছা বাস",
+      "image": "",
       "routes": [
         "Fulbaria",
         "Chankhar Pul",
@@ -2039,6 +2114,7 @@
     {
       "english": "Green Anabil",
       "bangle": "গ্রীন অনাবিল বাস",
+      "image": "",
       "routes": [
         "Chashara",
         "Shibu Market",
@@ -2086,6 +2162,7 @@
     {
       "english": "Green Dhaka",
       "bangle": "গ্রীন ঢাকা বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -2123,6 +2200,7 @@
     {
       "english": "Gulshan Chaka",
       "bangle": "গুলশান চাকা বাস",
+      "image": "",
       "routes": [
         "Banani",
         "Gulshan 2",
@@ -2134,6 +2212,7 @@
     {
       "english": "Hazi Transport",
       "bangle": "হাজি ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -2161,6 +2240,7 @@
     {
       "english": "Himachal",
       "bangle": "হিমাচল বাস",
+      "image": "",
       "routes": [
         "Mirpur Sony Cinema Hall",
         "Mirpur 10",
@@ -2179,6 +2259,7 @@
     {
       "english": "Himachal Suveccha",
       "bangle": "হিমাচল শুভেচ্ছা বাস",
+      "image": "",
       "routes": [
         "Metro Hall",
         "Chashara",
@@ -2215,6 +2296,7 @@
     {
       "english": "Himalay",
       "bangle": "হিমালয় বাস",
+      "image": "",
       "routes": [
         "Madanpur",
         "Jatrabari",
@@ -2228,6 +2310,7 @@
     {
       "english": "Itihash",
       "bangle": "ইতিহাস বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -2250,6 +2333,7 @@
     {
       "english": "J M Super Paribahan",
       "bangle": "জে এম সুপার পরিবহন বাস",
+      "image": "",
       "routes": [
         "Jatrabari",
         "Sayedabad",
@@ -2285,6 +2369,7 @@
     {
       "english": "Jabale Noor Paribahan",
       "bangle": "জাবালে নুর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Agargaon",
         "Taltola",
@@ -2307,6 +2392,7 @@
     {
       "english": "Jabale Noor Paribahan",
       "bangle": "জাবালে নুর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -2321,6 +2407,7 @@
     {
       "english": "Janjabil",
       "bangle": "জানযাবিল বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Beribadh Tin Rastar Moor",
@@ -2339,6 +2426,7 @@
     {
       "english": "Kamal Plus Paribahan",
       "bangle": "কামাল প্লাস পরিবহন বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -2368,6 +2456,7 @@
     {
       "english": "kanak",
       "bangle": "কনক বাস",
+      "image": "",
       "routes": [
         "Mirpur 1",
         "Sony Cinema Hall",
@@ -2393,6 +2482,7 @@
     {
       "english": "Khajababa",
       "bangle": "খাজা বাবা বাস",
+      "image": "",
       "routes": [
         "Jatrabari",
         "Sayedabad",
@@ -2423,6 +2513,7 @@
     {
       "english": "Kironmala Paribahan",
       "bangle": "কিরণমালা বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -2443,6 +2534,7 @@
     {
       "english": "Labbayek",
       "bangle": "লাব্বাইক বাস",
+      "image": "",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -2482,6 +2574,7 @@
     {
       "english": "Lal Sabuj",
       "bangle": "AC Bus Route",
+      "image": "",
       "routes": [
         "Nandan Park",
         "Zirani Bazar",
@@ -2515,6 +2608,7 @@
     {
       "english": "Lams Paribahan",
       "bangle": "লামস পরিবহন বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -2543,6 +2637,7 @@
     {
       "english": "Malancha",
       "bangle": "মালঞ্চ বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2568,6 +2663,7 @@
     {
       "english": "Manjil Express",
       "bangle": "মাঞ্জিল এক্সপ্রেস বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -2607,6 +2703,7 @@
     {
       "english": "Meghla Transport",
       "bangle": "মেঘলা ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Kalabagan",
         "Science Lab",
@@ -2632,6 +2729,7 @@
     {
       "english": "Meshkat",
       "bangle": "মেসকাত বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
@@ -2657,6 +2755,7 @@
     {
       "english": "Midline",
       "bangle": "মিডলাইন বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2684,6 +2783,7 @@
     {
       "english": "Mirpur Metro Services",
       "bangle": "মিরপুর মেট্রো সার্ভিস বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -2711,6 +2811,7 @@
     {
       "english": "Mirpur Link",
       "bangle": "মিরপুর লিংক বাস",
+      "image": "",
       "routes": [
         "ECB Square",
         "Purobi",
@@ -2731,6 +2832,7 @@
     {
       "english": "Mirpur Mission",
       "bangle": "মিরপুর মিশন বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -2745,6 +2847,7 @@
     {
       "english": "Mirpur Transport Service",
       "bangle": "মিরপুর ট্রান্সপোর্ট সার্ভিস বাস",
+      "image": "",
       "routes": [
         "Gulistan",
         "Golap Shah Mazar",
@@ -2774,6 +2877,7 @@
     {
       "english": "Mirpur United Service",
       "bangle": "মিরপুর ইউনাইটেড সার্ভিস বাস",
+      "image": "",
       "routes": [
         "Sadarghat",
         "- Ray Saheb Bazar",
@@ -2805,6 +2909,7 @@
     {
       "english": "MM Lovely",
       "bangle": "এম এম লাভলী বাস",
+      "image": "",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -2844,6 +2949,7 @@
     {
       "english": "Modhumita",
       "bangle": "মধুমিতা বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Sony Cinema Hall",
@@ -2872,6 +2978,7 @@
     {
       "english": "Mohona",
       "bangle": "মোহনা বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -2893,6 +3000,7 @@
     {
       "english": "Moitri",
       "bangle": "মৈত্রী বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2918,6 +3026,7 @@
     {
       "english": "Moumita",
       "bangle": "মৌমিতা বাস",
+      "image": "",
       "routes": [
         "Chashara",
         "Shibu Market",
@@ -2960,6 +3069,7 @@
     {
       "english": "MTCL-2",
       "bangle": "এমটিসিএল ২ বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
@@ -2986,6 +3096,7 @@
     {
       "english": "Nur E Makka",
       "bangle": "নূর এ মক্কা বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Sony Cinema Hall",
@@ -3019,6 +3130,7 @@
     {
       "english": "Nabakali Dhaka",
       "bangle": "নবকালি বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -3048,6 +3160,7 @@
     {
       "english": "New Vision Dhaka",
       "bangle": "নিউ ভিশন বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -3075,6 +3188,7 @@
     {
       "english": "Nilachol Dhaka",
       "bangle": "নিলাচল বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -3114,6 +3228,7 @@
     {
       "english": "Nishorgo Dhaka",
       "bangle": "নিসর্গ বাস",
+      "image": "",
       "routes": [
         "Mirpur 14 Bus Stand",
         "Mirpur 10",
@@ -3140,6 +3255,7 @@
     {
       "english": "Omama International",
       "bangle": "ওমামা ইন্টারন্যাশনাল বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Dainik Bangla Moor",
@@ -3170,6 +3286,7 @@
     {
       "english": "One Transport",
       "bangle": "ওয়ান ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Nandan Park",
         "Zirani Bazar",
@@ -3203,6 +3320,7 @@
     {
       "english": "Pallabi Local Service",
       "bangle": "পল্লবী লোকাল সার্ভিস বাস",
+      "image": "",
       "routes": [
         "Asad Gate",
         "College Gate",
@@ -3224,6 +3342,7 @@
     {
       "english": "Pallabi Super",
       "bangle": "পল্লবী সুপার বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3254,6 +3373,7 @@
     {
       "english": "Paristhan",
       "bangle": "পরিস্থান বাস",
+      "image": "",
       "routes": [
         "Bosila",
         "Mohammadpur",
@@ -3289,6 +3409,7 @@
     {
       "english": "Power Paribahan",
       "bangle": "পাওয়ার পরিবহন বাস",
+      "image": "",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -3314,6 +3435,7 @@
     {
       "english": "Prattay",
       "bangle": "প্রত্যয় বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Beribadh Tin Rastar Moor",
@@ -3332,6 +3454,7 @@
     {
       "english": "Prochesta",
       "bangle": "প্রচেষ্টা বাস",
+      "image": "",
       "routes": [
         "Maowa",
         "Keraniganj",
@@ -3372,6 +3495,7 @@
     {
       "english": "Projapati",
       "bangle": "প্রজাপতি বাস",
+      "image": "",
       "routes": [
         "Bosila",
         "Mohammadpur",
@@ -3406,6 +3530,7 @@
     {
       "english": "Provati Banasree",
       "bangle": "প্রভাতী বনশ্রী বাস",
+      "image": "",
       "routes": [
         "Fulbaria",
         "Golap Shah Mazar",
@@ -3447,6 +3572,7 @@
     {
       "english": "Purbachol Logistics and Transport",
       "bangle": "পূর্বাচল লজিস্টিকস বাস",
+      "image": "",
       "routes": [
         "Vashantek",
         "Mirpur 14",
@@ -3471,6 +3597,7 @@
     {
       "english": "Raida Dhaka",
       "bangle": "রাইদা বাস",
+      "image": "",
       "routes": [
         "Postagola",
         "Dholairpar",
@@ -3507,6 +3634,7 @@
     {
       "english": "Raja City Dhaka",
       "bangle": "রাজা সিটি বাস",
+      "image": "",
       "routes": [
         "Postagola",
         "Jurain",
@@ -3534,6 +3662,7 @@
     {
       "english": "Rajanigandha Dhaka",
       "bangle": "রজনীগন্ধা বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -3562,6 +3691,7 @@
     {
       "english": "Rajdhani Super Dhaka",
       "bangle": "রাজধানী বাস",
+      "image": "",
       "routes": [
         "Hemayetpur",
         "Gabtoli",
@@ -3598,6 +3728,7 @@
     {
       "english": "Ramjan Dhaka",
       "bangle": "রমযান বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3633,6 +3764,7 @@
     {
       "english": "Robrob Dhaka",
       "bangle": "রবরব বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3659,6 +3791,7 @@
     {
       "english": "Rois Dhaka",
       "bangle": "রাইস বাস",
+      "image": "",
       "routes": [
         "Mirpur Sony Cinema Hall",
         "Mirpur 2",
@@ -3678,6 +3811,7 @@
     {
       "english": "Rongdhonu Express Dhaka",
       "bangle": "রংধনু এক্সপ্রেস বাস",
+      "image": "",
       "routes": [
         "Adabor",
         "Mohammadpur",
@@ -3702,6 +3836,7 @@
     {
       "english": "Runway Express Dhaka",
       "bangle": "রানওয়ে এক্সপ্রেস বাস",
+      "image": "",
       "routes": [
         "Keraniganj",
         "Kadamtali",
@@ -3731,6 +3866,7 @@
     {
       "english": "Rupa Paribahan Dhaka",
       "bangle": "রুপা পরিবহন বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3748,6 +3884,7 @@
     {
       "english": "Rupkotha Dhaka",
       "bangle": "রুপকথা বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Mirpur 1",
@@ -3775,6 +3912,7 @@
     {
       "english": "Safety Druti",
       "bangle": "সেফটি দ্রুতি বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -3800,6 +3938,7 @@
     {
       "english": "Sakalpa Transport",
       "bangle": "স্বকল্প ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -3822,6 +3961,7 @@
     {
       "english": "Salsabil",
       "bangle": "ছালছাবিল বাস",
+      "image": "",
       "routes": [
         "Postagola",
         "Dholairpar",
@@ -3863,6 +4003,7 @@
     {
       "english": "Savar Paribahan",
       "bangle": "সাভার পরিবহন বাস",
+      "image": "",
       "routes": [
         "Sadarghat",
         "Golap Shah Mazar",
@@ -3897,6 +4038,7 @@
     {
       "english": "Shadhin",
       "bangle": "স্বাধীন বাস",
+      "image": "",
       "routes": [
         "Bosila",
         "Mohammadpur",
@@ -3920,6 +4062,7 @@
     {
       "english": "Shadhin Express",
       "bangle": "স্বাধীন এক্সপ্রেস বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -3953,6 +4096,7 @@
     {
       "english": "Shahria Enterprise",
       "bangle": "শাহরিয়া এন্টারপ্রাইজ বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3987,6 +4131,7 @@
     {
       "english": "Shatabdi",
       "bangle": "শতাব্দি বাস",
+      "image": "",
       "routes": [
         "Motijheel",
         "Paltan",
@@ -4017,6 +4162,7 @@
     {
       "english": "Shikhor Paribahan",
       "bangle": "শিখর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -4047,6 +4193,7 @@
     {
       "english": "Shikhor Paribahan",
       "bangle": "শিখর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Jatrabari",
         "Sayedabad",
@@ -4078,6 +4225,7 @@
     {
       "english": "Suveccha",
       "bangle": "শুভেচ্ছা বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -4120,6 +4268,7 @@
     {
       "english": "Suvojatri Bus",
       "bangle": "শুভযাত্রী  বাস",
+      "image": "",
       "routes": [
         "Fulbaria",
         "Golap Shah Mazar",
@@ -4152,6 +4301,7 @@
     {
       "english": "Siam Transport",
       "bangle": "সিয়াম ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Banasree",
         "Rampura Bridge",
@@ -4190,6 +4340,7 @@
     {
       "english": "Skyline",
       "bangle": "স্কাই লাইন বাস",
+      "image": "",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -4230,6 +4381,7 @@
     {
       "english": "Somota Paribahan",
       "bangle": "সমতা পরিবহন বাস",
+      "image": "",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -4267,6 +4419,7 @@
     {
       "english": "Somoy",
       "bangle": "সময় বাস",
+      "image": "",
       "routes": [
         "Sign Board",
         "Matuail",
@@ -4302,6 +4455,7 @@
     {
       "english": "Somoy Niyantran",
       "bangle": "সময় নিয়ন্ত্রণ বাস",
+      "image": "",
       "routes": [
         "Mirpur 12",
         "Pallabi",
@@ -4333,6 +4487,7 @@
     {
       "english": "Super",
       "bangle": "সুপার বাস",
+      "image": "",
       "routes": [
         "Gulistan",
         "Shahbag",
@@ -4348,6 +4503,7 @@
     {
       "english": "Supravat",
       "bangle": "সুপ্রভাত বাস",
+      "image": "",
       "routes": [
         "Victoria Park",
         "Sadarghat",
@@ -4387,6 +4543,7 @@
     {
       "english": "Swajan Paribahan",
       "bangle": "স্বজন পরিবহন বাস",
+      "image": "",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -4418,6 +4575,7 @@
     {
       "english": "Talukdar",
       "bangle": "তালুকদার বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -4458,6 +4616,7 @@
     {
       "english": "Tanjil Paribahan",
       "bangle": "তানজিল পরিবহন বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -4488,6 +4647,7 @@
     {
       "english": "Taranga Plus",
       "bangle": "তরঙ্গ প্লাস বাস",
+      "image": "",
       "routes": [
         "Mohammadpur Bus Stand",
         "Shankar",
@@ -4516,6 +4676,7 @@
     {
       "english": "Tetulia",
       "bangle": "তেতুলিয়া বাস",
+      "image": "",
       "routes": [
         "Shia Mosque",
         "Japan Garden City",
@@ -4547,6 +4708,7 @@
     {
       "english": "Thikana",
       "bangle": "ঠিকানা বাস",
+      "image": "",
       "routes": [
         "Sign Board",
         "Matuail",
@@ -4587,6 +4749,7 @@
     {
       "english": "Thikana Express",
       "bangle": "ঠিকানা এক্সপ্রেস বাস",
+      "image": "",
       "routes": [
         "Shonbari Sreenagar",
         "Nimtola",
@@ -4630,6 +4793,7 @@
     {
       "english": "Titas",
       "bangle": "তিতাস বাস",
+      "image": "",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -4643,6 +4807,7 @@
     {
       "english": "Transilva",
       "bangle": "ট্রান্সিল্ভা বাস",
+      "image": "",
       "routes": [
         "Mirpur 1",
         "Ansar Camp",
@@ -4674,6 +4839,7 @@
     {
       "english": "Trust Transport Services",
       "bangle": "ট্রাষ্ট ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Mirpur 10",
         "Mirpur 13",
@@ -4688,6 +4854,7 @@
     {
       "english": "Trust Transport Services",
       "bangle": "ট্রাষ্ট ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Mirpur 10",
         "Mirpur 13",
@@ -4707,6 +4874,7 @@
     {
       "english": "Trust Transport Services",
       "bangle": "ট্রাষ্ট ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Mirpur DOHS",
         "Kalshi",
@@ -4732,6 +4900,7 @@
     {
       "english": "Trust Transport Services",
       "bangle": "AC  Bus Route",
+      "image": "",
       "routes": [
         "Mirpur DOHS",
         "Kalshi",
@@ -4750,6 +4919,7 @@
     {
       "english": "Turag",
       "bangle": "ট্রাষ্ট ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Jatrabari",
         "Sayedabad",
@@ -4784,6 +4954,7 @@
     {
       "english": "Victor Classic",
       "bangle": "ভিক্টর ক্লাসিক বাস",
+      "image": "",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -4822,6 +4993,7 @@
     {
       "english": "Victor Paribahan",
       "bangle": "ভিক্টর পরিবহন বাস",
+      "image": "",
       "routes": [
         "Sadarghat",
         "Ray Saheb Bazar",
@@ -4853,6 +5025,7 @@
     {
       "english": "VIP 27",
       "bangle": "ভিআইপি ২৭ বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -4883,6 +5056,7 @@
     {
       "english": "Welcome",
       "bangle": "ওয়েলকাম বাস",
+      "image": "",
       "routes": [
         "Nandan Park",
         "Zirani Bazar",
@@ -4916,6 +5090,7 @@
     {
       "english": "Winner",
       "bangle": "উইনার বাস",
+      "image": "",
       "routes": [
         "Azimpur",
         "Eden College",
@@ -4948,6 +5123,7 @@
     {
       "english": "13 No. Dhaka",
       "bangle": "১৩নং বাস",
+      "image": "",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -4966,6 +5142,7 @@
     {
       "english": "4 No. Alike Dhaka",
       "bangle": "৪নং বাস",
+      "image": "",
       "routes": [
         "Balughat",
         "Signal",
@@ -4988,6 +5165,7 @@
     {
       "english": "6 No. Dhaka",
       "bangle": "৬নং বাস",
+      "image": "",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -5014,6 +5192,7 @@
     {
       "english": "6 No. Motijheel Banani Transport Dhaka",
       "bangle": "৬নং মতিঝিল বনানী ট্রান্সপোর্ট বাস",
+      "image": "",
       "routes": [
         "Kamalapur",
         "Motijheel",
@@ -5040,6 +5219,7 @@
     {
       "english": "7 No. Dhaka",
       "bangle": "৭নং বাস",
+      "image": "",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -5070,6 +5250,7 @@
     {
       "english": "8 No. Dhaka",
       "bangle": "৮নং বাস",
+      "image": "",
       "routes": [
         "Jatrabari",
         "Janapath Moor",
@@ -5099,6 +5280,7 @@
     {
       "english": "9 No. Dhaka",
       "bangle": "৯নং বাস",
+      "image": "",
       "routes": [
         "College Gate",
         "Shishu Mela",
