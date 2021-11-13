@@ -3168,7 +3168,7 @@
     {
       "english": "Raida Dhaka",
       "bangle": "রাইদা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=7d7f7ff9-2601-44c7-b726-e90a48aeb2f6",
       "routes": [
         "Postagola",
         "Dholairpar",
@@ -3205,7 +3205,7 @@
     {
       "english": "Raja City Dhaka",
       "bangle": "রাজা সিটি বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%BE%20%E0%A6%B8%E0%A6%BF%E0%A6%9F%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=ed106d16-12f5-45c2-b500-8a7189389660",
       "routes": [
         "Postagola",
         "Jurain",
@@ -3233,7 +3233,7 @@
     {
       "english": "Rajanigandha Dhaka",
       "bangle": "রজনীগন্ধা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%97%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=fcb44911-5aa2-4545-865e-93d44f63cfb4",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -3262,7 +3262,7 @@
     {
       "english": "Rajdhani Super Dhaka",
       "bangle": "রাজধানী বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=42c57cea-9a3a-4463-bbf6-98becc883d27",
       "routes": [
         "Hemayetpur",
         "Gabtoli",
@@ -3299,7 +3299,7 @@
     {
       "english": "Ramjan Dhaka",
       "bangle": "রমযান বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%AE%E0%A6%AF%E0%A6%BE%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e7a293ba-c5dd-41b7-81de-70ea17c2ea25",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3335,7 +3335,7 @@
     {
       "english": "Robrob Dhaka",
       "bangle": "রবরব বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A6%AC%E0%A6%B0%E0%A6%AC%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e96b96fd-4230-4ddd-85ed-bacb3661dca9",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3360,84 +3360,9 @@
       "service_type": ""
     },
     {
-      "english": "Rois Dhaka",
-      "bangle": "রাইস বাস",
-      "image": "",
-      "routes": [
-        "Mirpur Sony Cinema Hall",
-        "Mirpur 2",
-        "Mirpur 10",
-        "Kazipara",
-        "Shewrapara",
-        "Agargaon",
-        "Mohakhali",
-        "Gulshan 1",
-        "Badda",
-        "Rampura Bridge",
-        "Banasree"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "Rongdhonu Express Dhaka",
-      "bangle": "রংধনু এক্সপ্রেস বাস",
-      "image": "",
-      "routes": [
-        "Adabor",
-        "Mohammadpur",
-        "Shia Mosque",
-        "Shyamoli",
-        "College Gate",
-        "Asad Gate",
-        "Kalabagan",
-        "Science Lab",
-        "Katabon",
-        "Bata Signal",
-        "Shahbag",
-        "Kakrail",
-        "Fakirapul",
-        "Motijheel",
-        "Dayaganj",
-        "Postagola"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "Runway Express Dhaka",
-      "bangle": "রানওয়ে এক্সপ্রেস বাস",
-      "image": "",
-      "routes": [
-        "Keraniganj",
-        "Kadamtali",
-        "Babubazar",
-        "Naya Bazar",
-        "Golap Shah Mazar",
-        "GPO",
-        "Paltan",
-        "Press Club",
-        "High Court",
-        "Matsya Bhaban",
-        "Shahbag",
-        "Bangla Motor",
-        "Kawran Bazar",
-        "Farmgate",
-        "Agargaon",
-        "Shewrapara",
-        "Kazipara",
-        "Mirpur 10",
-        "Mirpur 11",
-        "Mirpur 12",
-        "ECB Square"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "Rupa Paribahan Dhaka",
       "bangle": "রুপা পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%BE%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=6a2ad7f1-4462-4574-9ee5-bdb3a08c50d1",
       "routes": [
         "Gabtoli",
         "Technical",
@@ -3448,34 +3373,6 @@
         "Mirpur 10",
         "Mirpur 14",
         "Vashantek"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "Rupkotha Dhaka",
-      "bangle": "রুপকথা বাস",
-      "image": "",
-      "routes": [
-        "Gabtoli",
-        "Mirpur 1",
-        "Sony Cinema Hall",
-        "Mirpur 2",
-        "Mirpur 10",
-        "Mirpur 11",
-        "Purobi",
-        "Kalshi",
-        "ECB Square",
-        "MES",
-        "Shewra",
-        "Kuril Bishwa Road",
-        "Khilkhet",
-        "Airport",
-        "Jashimuddin (Uttara)",
-        "Rajlakshmi",
-        "Azampur",
-        "House Building",
-        "Abdullahpur"
       ],
       "time": "",
       "service_type": ""
