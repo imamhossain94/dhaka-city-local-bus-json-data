@@ -1464,7 +1464,7 @@
     {
       "english": "D Link",
       "bangle": "ডি লিংক বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A1%E0%A6%BF%20%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%95%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.png?alt=media&token=64e31d60-c556-478a-989c-8cbd424968f5",
       "routes": [
         "Fulbaria",
         "Chankhar Pul",
@@ -1495,7 +1495,7 @@
     {
       "english": "D One Transport",
       "bangle": "ডি ওয়ান বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A1%E0%A6%BF%20%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e32883ac-58b6-4b95-a8d0-8ef3295e801c",
       "routes": [
         "Motijheel",
         "Dainik Bangla Moor",
@@ -1525,7 +1525,7 @@
     {
       "english": "Deepan",
       "bangle": "দিপান বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=30c339ff-ecae-4725-873d-e3063b1eae4b",
       "routes": [
         "Tajmahal Road",
         "Shankar",
@@ -1546,7 +1546,7 @@
     {
       "english": "Desh Bangla",
       "bangle": "দেশ বাংলা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A7%87%E0%A6%B6%20%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.jpg?alt=media&token=7d55c42d-b6b6-49a1-91e9-1c355cc5fcfb",
       "routes": [
         "Postagola",
         "Dholairpar",
@@ -1583,7 +1583,7 @@
     {
       "english": "Dewan",
       "bangle": "দেওয়ান বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A7%87%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=064c59bc-bb3b-4946-a115-789674112c75",
       "routes": [
         "Azimpur",
         "Eden College",
@@ -1618,7 +1618,7 @@
     {
       "english": "Dhakar Chaka",
       "bangle": "ঢাকার চাকা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%20%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e8924235-1eaf-4038-bcd8-0a49ea53a969",
       "routes": [
         "Police Plaza",
         "Gulshan 1",
@@ -1630,7 +1630,7 @@
     {
       "english": "Dhakar Chaka",
       "bangle": "ঢাকার চাকা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%20%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e8924235-1eaf-4038-bcd8-0a49ea53a969",
       "routes": [
         "Banani",
         "Gulshan 2",
@@ -1640,43 +1640,9 @@
       "service_type": "Sitting Service(Ticket System)"
     },
     {
-      "english": "Dhaka Metro Service",
-      "bangle": "ঢাকার মেট্রো সার্ভিস বাস",
-      "image": "",
-      "routes": [
-        "Mirpur 1",
-        "Kallyanpur",
-        "Shyamoli",
-        "Asad Gate",
-        "Shukrabad Kalabagan",
-        "Science Lab",
-        "New Market",
-        "Nilkhet",
-        "Azimpur"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
-      "english": "Dhaka Paribahan",
-      "bangle": "ঢাকা পরিবহন বাস",
-      "image": "",
-      "routes": [
-        "Gulistan",
-        "Shahbag",
-        "Farmgate",
-        "Banani",
-        "Uttara",
-        "Gazipur",
-        "Shib Bari"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "Dipon",
       "bangle": "দিপোন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=30c339ff-ecae-4725-873d-e3063b1eae4b",
       "routes": [
         "Tajmahal Road",
         "Salimullah Road",
@@ -1704,7 +1670,7 @@
     {
       "english": "Dip Paribahan",
       "bangle": "দ্বীপ পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A7%80%E0%A6%AA%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e6fb4a29-ac86-4d47-a7e9-2a9f24895268",
       "routes": [
         "Azimpur",
         "City College",
@@ -1721,8 +1687,8 @@
     },
     {
       "english": "Dishari",
-      "bangle": "দিসারি বাস",
-      "image": "",
+      "bangle": "দিশারী বাস",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%A6%E0%A6%BF%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=2878654d-802e-4534-bbbc-2bf852e83a53",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
