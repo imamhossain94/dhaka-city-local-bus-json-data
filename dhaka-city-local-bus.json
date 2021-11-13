@@ -2377,7 +2377,7 @@
     {
       "english": "Malancha",
       "bangle": "মালঞ্চ বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%9E%E0%A7%8D%E0%A6%9A%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e1d8babb-ff7b-46c1-ab8e-ee32a56f0d71",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2403,7 +2403,7 @@
     {
       "english": "Manjil Express",
       "bangle": "মাঞ্জিল এক্সপ্রেস বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%B2%20%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8.jpg?alt=media&token=d0ee9334-9bfc-4ef9-8350-4b6c9ea9b53c",
       "routes": [
         "Chittagong Road",
         "Sign Board",
@@ -2443,7 +2443,7 @@
     {
       "english": "Meghla Transport",
       "bangle": "মেঘলা ট্রান্সপোর্ট বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A7%87%E0%A6%98%E0%A6%B2%E0%A6%BE%20%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F.jpg?alt=media&token=9e1691bd-134e-4462-ac00-91799ec6839f",
       "routes": [
         "Kalabagan",
         "Science Lab",
@@ -2469,7 +2469,7 @@
     {
       "english": "Meshkat",
       "bangle": "মেসকাত বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%A4%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=c1d252af-9a13-4702-9c90-cb76a1c9d79a",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
@@ -2495,7 +2495,7 @@
     {
       "english": "Midline",
       "bangle": "মিডলাইন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=8151eefe-4bfd-44fe-bbbb-337945e9bbb0",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2523,7 +2523,7 @@
     {
       "english": "Mirpur Metro Services",
       "bangle": "মিরপুর মেট্রো সার্ভিস বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%AE%E0%A7%87%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%B8.jpg?alt=media&token=f303c38e-a337-46eb-b2cf-4cab67791fae",
       "routes": [
         "Azimpur",
         "Nilkhet",
@@ -2551,7 +2551,7 @@
     {
       "english": "Mirpur Link",
       "bangle": "মিরপুর লিংক বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%95%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=be6f0e9d-0ea3-49b1-8080-32c8dc7f5d5b",
       "routes": [
         "ECB Square",
         "Purobi",
@@ -2572,7 +2572,7 @@
     {
       "english": "Mirpur Mission",
       "bangle": "মিরপুর মিশন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%AE%E0%A6%BF%E0%A6%B6%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=e2c3a336-c4b8-4a95-ae23-49325e080b97",
       "routes": [
         "Chiriyakhana",
         "Mirpur 1",
@@ -2585,39 +2585,9 @@
       "service_type": ""
     },
     {
-      "english": "Mirpur Transport Service",
-      "bangle": "মিরপুর ট্রান্সপোর্ট সার্ভিস বাস",
-      "image": "",
-      "routes": [
-        "Gulistan",
-        "Golap Shah Mazar",
-        "GPO",
-        "Paltan",
-        "Press Club",
-        "High Court",
-        "Matsya Bhaban",
-        "Shahbag",
-        "Bangla Motor",
-        "Kawran Bazar",
-        "Farmgate",
-        "Khamar Bari",
-        "Agargaon",
-        "Taltola",
-        "Shewrapara",
-        "Kazipara",
-        "Mirpur 10",
-        "Mirpur 11",
-        "Purobi",
-        "Pallabi",
-        "Mirpur 12"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "Mirpur United Service",
       "bangle": "মিরপুর ইউনাইটেড সার্ভিস বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%87%E0%A6%89%E0%A6%A8%E0%A6%BE%E0%A6%87%E0%A6%9F%E0%A7%87%E0%A6%A1%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%B8.jpg?alt=media&token=4e312801-5c0d-4479-9b77-5a6a65ce76ed",
       "routes": [
         "Sadarghat",
         "- Ray Saheb Bazar",
@@ -2649,7 +2619,7 @@
     {
       "english": "MM Lovely",
       "bangle": "এম এম লাভলী বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%8F%E0%A6%AE%20%E0%A6%8F%E0%A6%AE%20%E0%A6%B2%E0%A6%BE%E0%A6%AD%E0%A6%B2%E0%A7%80%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=97c89959-d489-4ed8-935e-4bfba2b397bf",
       "routes": [
         "Savar",
         "Hemayetpur",
@@ -2689,7 +2659,7 @@
     {
       "english": "Modhumita",
       "bangle": "মধুমিতা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A6%A7%E0%A7%81%E0%A6%AE%E0%A6%A4%E0%A6%BF%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=4a738e01-5f5f-4fbb-8eb8-244f13341958",
       "routes": [
         "Chiriyakhana",
         "Sony Cinema Hall",
@@ -2718,7 +2688,7 @@
     {
       "english": "Mohona",
       "bangle": "মোহনা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%A8%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=b53b4b23-4c08-431e-a230-f62c33d45464",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -2740,7 +2710,7 @@
     {
       "english": "Moitri",
       "bangle": "মৈত্রী বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A7%88%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A7%80%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=f0b5efa6-75d1-43ab-abe7-7243bdf59bbe",
       "routes": [
         "Mohammadpur",
         "Shankar",
@@ -2766,7 +2736,7 @@
     {
       "english": "Moumita",
       "bangle": "মৌমিতা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%AE%E0%A7%8C%E0%A6%AE%E0%A6%BF%E0%A6%A4%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=dde151d6-5ef7-4be1-9cce-db028731065c",
       "routes": [
         "Chashara",
         "Shibu Market",
@@ -2809,7 +2779,7 @@
     {
       "english": "MTCL-2",
       "bangle": "এমটিসিএল ২ বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%8F%E0%A6%AE%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A6%BF%E0%A6%8F%E0%A6%B2%20%E0%A7%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=3f8ba067-67fc-457c-b630-14ed6cca61cd",
       "routes": [
         "Mohammadpur",
         "Asad Gate",
