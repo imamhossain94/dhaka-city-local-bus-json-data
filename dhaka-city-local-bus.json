@@ -4383,7 +4383,7 @@
     {
       "english": "Welcome",
       "bangle": "ওয়েলকাম বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%AE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=f452955c-1aad-41da-bba4-5a1b189948ec",
       "routes": [
         "Nandan Park",
         "Zirani Bazar",
@@ -4417,7 +4417,7 @@
     {
       "english": "Winner",
       "bangle": "উইনার বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%89%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B0%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=583e0b68-57b8-4396-af61-ac2f40e9c946",
       "routes": [
         "Azimpur",
         "Eden College",
