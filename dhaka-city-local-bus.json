@@ -1853,7 +1853,7 @@
     {
       "english": "Gazipur Paribahan",
       "bangle": "গাজীপুর পরিবহন বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%97%E0%A6%BE%E0%A6%9C%E0%A7%80%E0%A6%AA%E0%A7%81%E0%A6%B0%20%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B9%E0%A6%A8%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=550412bd-b234-4612-9806-446454b02a25",
       "routes": [
         "Motijheel",
         "Paltan",
@@ -1892,7 +1892,7 @@
     {
       "english": "Grameen",
       "bangle": "গ্রামীণ বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%80%E0%A6%A3%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=b6db178a-442f-4ca0-a83b-4fda2f886738",
       "routes": [
         "Mirpur 14",
         "Mirpur 10",
@@ -1907,43 +1907,9 @@
       "service_type": ""
     },
     {
-      "english": "Grameen Suveccha",
-      "bangle": "গ্রামীণ শুভেচ্ছা বাস",
-      "image": "",
-      "routes": [
-        "Fulbaria",
-        "Chankhar Pul",
-        "Bakshi Bazar",
-        "Azimpur",
-        "Nilkhet",
-        "New Market",
-        "City College",
-        "Kalabagan",
-        "Dhanmondi 32",
-        "Dhanmondi 27",
-        "Asad Gate",
-        "College Gate",
-        "Shishu Mela",
-        "Shyamoli",
-        "Kallyanpur",
-        "Darussalam",
-        "Technical",
-        "Gabtoli",
-        "Amin Bazar",
-        "Hemayetpur",
-        "Savar",
-        "Baipayl",
-        "Zirani Bazar",
-        "Nandan Park",
-        "Chandra"
-      ],
-      "time": "",
-      "service_type": ""
-    },
-    {
       "english": "Green Anabil",
       "bangle": "গ্রীন অনাবিল বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A8%20%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B2%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=940810cd-f2a7-4b3d-942b-ec694c37edaa",
       "routes": [
         "Chashara",
         "Shibu Market",
@@ -1991,7 +1957,7 @@
     {
       "english": "Green Dhaka",
       "bangle": "গ্রীন ঢাকা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A8%20%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=636e57da-5c04-45dc-ae55-a32ec3d4163a",
       "routes": [
         "Motijheel",
         "Gulistan",
@@ -2029,7 +1995,7 @@
     {
       "english": "Gulshan Chaka",
       "bangle": "গুলশান চাকা বাস",
-      "image": "",
+      "image": "https://firebasestorage.googleapis.com/v0/b/bd-bus-route-32221.appspot.com/o/buses%2F%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%B6%E0%A6%BE%E0%A6%A8%20%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%BE%20%E0%A6%AC%E0%A6%BE%E0%A6%B8.jpg?alt=media&token=d230d7b1-7a20-4c9c-822e-93e8672b2d76",
       "routes": [
         "Banani",
         "Gulshan 2",
